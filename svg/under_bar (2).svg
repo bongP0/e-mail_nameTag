@@ -1,0 +1,38 @@
+<svg id="그룹_13" data-name="그룹 13" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1155.81" height="10.967" viewBox="0 0 1155.81 10.967">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="사각형_10" data-name="사각형 10" width="1155.81" height="10.967" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-2">
+      <rect id="사각형_9" data-name="사각형 9" width="1155.808" height="10.967" transform="translate(0 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="사각형_6" data-name="사각형 6" width="71.071" height="10.967" transform="translate(858 0)" fill="none"/>
+    </clipPath>
+    <clipPath id="clip-path-4">
+      <rect id="사각형_8" data-name="사각형 8" width="27.072" height="10.967" transform="translate(956.947 0)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="그룹_12" data-name="그룹 12" clip-path="url(#clip-path)">
+    <rect id="사각형_3" data-name="사각형 3" width="775.282" height="10.967" transform="translate(0 0)" fill="#224c76"/>
+    <rect id="사각형_4" data-name="사각형 4" width="380.526" height="10.967" transform="translate(775.282 0)" fill="#d5d5d5"/>
+    <g id="그룹_11" data-name="그룹 11">
+      <g id="그룹_10" data-name="그룹 10" clip-path="url(#clip-path-2)">
+        <g id="그룹_6" data-name="그룹 6" opacity="0.6">
+          <g id="그룹_5" data-name="그룹 5">
+            <g id="그룹_4" data-name="그룹 4" clip-path="url(#clip-path-3)">
+              <rect id="사각형_5" data-name="사각형 5" width="71.071" height="10.967" transform="translate(858 0)" fill="#224c76"/>
+            </g>
+          </g>
+        </g>
+        <g id="그룹_9" data-name="그룹 9" opacity="0.6">
+          <g id="그룹_8" data-name="그룹 8">
+            <g id="그룹_7" data-name="그룹 7" clip-path="url(#clip-path-4)">
+              <rect id="사각형_7" data-name="사각형 7" width="27.071" height="10.967" transform="translate(956.947 0)" fill="#224c76"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
